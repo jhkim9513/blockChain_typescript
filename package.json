@@ -1,0 +1,12 @@
+{
+  "name": "blockChain_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jhkim9513/blockChain_typescript.git",
+  "author": "dondon9513 <dondon9513@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
